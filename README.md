@@ -34,18 +34,19 @@
   
  ### 近期更新一下推荐的排行榜： 
 
-|  苹果ios梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=iosvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/iosvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=iosvpn) |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=iosvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=iosvpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn) | [备用地址2](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=iosvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=iosvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=iosvpn) |
-| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=iosvpn) | - | - |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxian227&data2=iosvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/iosvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxian227&data2=iosvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=iosvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian227&aff_sub2=iosvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=iosvpn) | - | - |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=iosvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=iosvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=iosvpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=iosvpn) | - | - |
+  
   
 ----  
   
 <p>本指南将介绍苹果手机怎么翻墙，以及如何注册美区Apple ID账号下载苹果翻墙软件APP的教程。如果你不想读完整篇文章，可以选择以下我们推荐的好用的iOS VPN：</p>
-<div class="purple-bar-back"><ul><li>1.<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的苹果VPN，全球众多服务器不限带宽和流量。</li><li>2.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 价格便宜延迟低，提供香港、台湾节点，APP用户体验好。</li><li>3.<a href="https://www.pantoto.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 提供iOS VPN安装包，大陆近距离节点多，华人团队开发。</li><li>4.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 独特的翻墙模式，在中国可稳定使用，美国节点数量多。</li><li>5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=iosvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 混淆模式和高级加密技术，可以绕过防火长城检测。</li></ul></div>
+<div class="purple-bar-back"><ul><li>1.<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=iosvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的苹果VPN，全球众多服务器不限带宽和流量。</li><li>2.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 价格便宜延迟低，提供香港、台湾节点，APP用户体验好。</li><li>3.<a href="https://www.pantoto.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 提供iOS VPN安装包，大陆近距离节点多，华人团队开发。</li><li>4.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 独特的翻墙模式，在中国可稳定使用，美国节点数量多。</li><li>5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=iosvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 混淆模式和高级加密技术，可以绕过防火长城检测。</li></ul></div>
 <p>我们不推荐国内的翻墙VPN，因为在国内销售翻墙软件属于违法行为，国内VPN随时都由可能被请喝茶，很可能付费之后VPN就连不上。而个人开发的机场梯子，也面临同样的风险。因此都不是长期稳定的iPhone翻墙选择。</p>
 <p>对于大多数用户来说，使用国外付费VPN都是最稳定的方法，对于新手iOS翻墙尤其如此。这些VPN服务商提供了用户体验良好的苹果VPN翻墙软件，不用任何配置一键连接，还提供了在中国区App Store下载翻墙APP的解决方案。</p>
 <p>最重要的是，以上推荐的iOS VPN针对中国大陆开发了翻墙协议，可以伪装流量从而绕过防火长城GFW。这需要VPN服务商注重中国市场，愿意长期投入研发新的翻墙技术。但愿意这样做的VPN并不多，这样导致了虽然苹果应用商店有不计其数的VPN，但是大多数都不能在中国使用。</p>
@@ -54,7 +55,7 @@
 <div class="purple-bar-back"><ul><li><strong>能在中国翻墙</strong>：任何VPN要是无法在中国翻墙，那么吹上天也没有。好用的中国VPN需要开发高级伪装协议，并且持续投入人力和财力，升级新的电脑VPN、手机VPN以及VPN协议，才能与防火长城GFW抗衡。</li><li><strong>服务器节点多</strong>：服务商需要提供香港、日本、台湾、新加坡等中国大陆近距离服务器，这样可以提供低延迟的体验，用来玩游戏或者访问Google、Facebook、Twitter都是不错的选择。而土耳其、阿根廷服务器则可以用来低价订阅Netflix，英国、德国IP节点则可以解锁Disney+、BBC iPlayer、Hulu等国外流媒体。</li><li><strong>速度快</strong>：足够快的速度才能观看高清视频，因此要注意VPN服务商的带宽限制。但是服务器负载也会影响速度，因此还是要实际使用才能确定。有时候远距离的服务器速度还会比近距离的更快。</li><li><strong>稳定性好</strong>：特殊时期大多数VPN都会被墙，这个时候防火长城会限制大多数国外流量，因此IP被墙的情况会更严重。好用的VPN会提供备用节点，还会升级苹果VPN翻墙软件。</li><li><strong>简单易用</strong>：付费VPN大都提供了良好的iOS VPN软件，不用自己进行复杂的配置，只需要购买、注册、下载APP然后一键连接就能实现iOS翻墙。还支持常见的Mac、Windows、Linux、Android等平台，在电脑、手机、平板上都能科学上网。</li><li><strong>退款保证</strong>：国外VPN一般都提供30天的退款保证，即便购买VPN之后无法在中国使用，也能在期限内获得全额退款。使用过程中遇到任何问题，也可以联系他们的24/7在线客服获得帮助。</li></ul></div>
 <h2 id="最佳ios-vpn推荐">最佳iOS VPN推荐</h2>
 <p>这几款VPN在苹果手机上体验友好，并且能够在中国稳定使用。提供的服务器众多，支持电脑和手机多种设备平台，还提供退款保证和24/7在线客服。我们根据价格、速度、客服等多方面对VPN进行了测评，希望能对你选择好用的苹果iOS VPN提供参考。</p>
-<h3 id="1-expressvpn-翻墙首选苹果vpn">1.<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 翻墙首选苹果VPN</h3>
+<h3 id="1-expressvpn-翻墙首选苹果vpn">1.<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=iosvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 翻墙首选苹果VPN</h3>
 <p>ExpressVPN可以说是VPN市场的领导者，在中国翻墙非常稳定，线路优化很好所以速度也很快，我自己也长期在使用ExpressVPN。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="393" src="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg" alt="expressvpn官网" class="wp-image-2360" srcset="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage-300x147.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage-768x377.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>全球部署的3000多台高速服务器不限带宽和流量，虽说ExpressVPN提供的节点不算多，但多年以来只有它最坚挺。使用低延迟的香港、日本、新加坡近距离节点可以跨服玩游戏，不管是Google查资料还是访问Facebook、Twitter、Instagram等社交媒体速度也更快。</p>
@@ -64,11 +65,11 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="311" src="https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg" alt="expressvpn价格" class="wp-image-2574" srcset="https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price-300x117.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price-768x299.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>价格方面ExpressVPN没有太大优势，但是一分钱一分货，并且使用本站提供的ExpressVPN优惠链接，可以获得3个月免费使用时长，价格也从原来的$8.32/月降至$6.67/月。考虑ExpressVPN在中国翻墙优秀的表现，这样算下来就并不贵了，并且还支持30天退款保证。</p>
 <div class="wp-container-621447b7a24b5 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取ExpressVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取ExpressVPN优惠</a></div>
 </div>
 
 <hr>
-<h3 id="3-purevpn-便宜性价比高的苹果vpn">3.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的苹果VPN</h3>
+<h3 id="3-purevpn-便宜性价比高的苹果vpn">3.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的苹果VPN</h3>
 <p>PureVPN已经稳定运营十多年了，是一家老牌的VPN服务商，最早注册在香港，熟悉中国用户的翻墙和科学上网需求，并且价格也比较便宜。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="390" src="https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage.jpg" alt="purevpn官网" class="wp-image-2363" srcset="https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage-300x146.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage-768x374.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>服务器数量非常多，在全球78个国家部署有6500多台快速服务器，也就是说你可以用来解锁受限制流媒体网站Netflix、Disney+、Hulu、Amazon Prime Video，并且享受高速的观看体验。</p>
@@ -78,10 +79,10 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="250" height="252" src="https://qiangup.com/wp-content/uploads/2022/01/purevpn-price.jpg" alt="purevpn价格" class="wp-image-2586" srcset="https://qiangup.com/wp-content/uploads/2022/01/purevpn-price.jpg 250w, https://qiangup.com/wp-content/uploads/2022/01/purevpn-price-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
 <p>通过本站提供的PureVPN优惠折扣链接访问PureVPN官网，可以获得$1.99/月的超值包年套餐，价格非常便宜性价比高。所有套餐都提供31天退款保证以及24/7在线客服，可以在退款期限内免费试用VPN。</p>
 <div class="wp-container-621447b7a2b27 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取PureVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取PureVPN优惠</a></div>
 </div>
 <hr>
-<h3 id="4-surfshark-不限设备数量的ios-vpn">4.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量的iOS VPN</h3>
+<h3 id="4-surfshark-不限设备数量的ios-vpn">4.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=iosvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量的iOS VPN</h3>
 <p>Surfshark虽然在VPN市场上初出茅庐，但是独特的翻墙模式在中国非常好用，并且服务器众多，不限制同一账号的设备数量。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="394" src="https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg" alt="surfshark官网" class="wp-image-2364" srcset="https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage-300x148.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage-768x378.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>同样Surfshark也支持常见用的Mac、Windows、Linux、iOS、Android操作系统，还提供了Chrome、FireFox浏览器扩展插件，意味着你可以在iPhone和iPad上使用VPN翻墙。</p>
@@ -92,10 +93,10 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://qiangup.com/wp-content/uploads/2022/01/surfshark-price.jpg" alt="surfshark价格" class="wp-image-2578" /></figure></div>
 <p>Surfshark也是价格<a href="/cheap-vpn/">便宜的VPN</a>，包年套餐只需$2.49/月，一般黑五优惠比较大。支持Visa信用卡、PayPal、加密货币等多种付款方式，通过香港IP访问官网还能使用支付宝付款。</p>
 <div class="wp-container-621447b7a2e23 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取Surfshark优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取Surfshark优惠</a></div>
 </div>
 <hr>
-<h3 id="5-nordvpn-安全性高的苹果vpn">5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=iosvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 安全性高的苹果VPN</h3>
+<h3 id="5-nordvpn-安全性高的苹果vpn">5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=iosvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 安全性高的苹果VPN</h3>
 <p>NordVPN是一款知名的安全VPN，其混淆服务器可以绕过防火长城的检测，苹果iOS翻墙体验也非常不错，连接稳定速度快。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="393" src="https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage.jpg" alt="nordvpn官网" class="wp-image-2361" srcset="https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage-300x147.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage-768x377.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>NordVPN拥有的服务器数据也比较多，5290多台高速服务器遍布59个国家。所有服务器都提供超大的带宽，支持P2P文件共享和种子下载，还能用来跨服玩游戏。</p>
@@ -106,7 +107,7 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="233" src="https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price.jpg" alt="nordvpn价格" class="wp-image-2575" srcset="https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price-300x87.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price-768x224.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>NordVPN价格适中性价比不错，支持银联信用卡、Visa信用卡、加密货币付款。NordVPN还有附加功能NordPass密码管理软件、NordLocker网盘云储存，不需要的话可以在结账页面从购物车删除。</p>
 <div class="wp-container-621447b7a3152 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取NordVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=iosvpn" style="border-radius:30px" target="_blank" rel="noopener">获取NordVPN优惠</a></div>
 </div>
 <hr>
 <h2 id="如何下载苹果vpn">如何下载苹果VPN？</h2>
@@ -187,9 +188,9 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=iosvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/iosvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=iosvpn) |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=iosvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=iosvpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=iosvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=iosvpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=iosvpn) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=iosvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=iosvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=iosvpn) |
-| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=iosvpn) | - | - |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxian227&data2=iosvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/iosvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxian227&data2=iosvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=iosvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian227&aff_sub2=iosvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=iosvpn) | - | - |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=iosvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=iosvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=iosvpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=iosvpn) | - | - |
   
